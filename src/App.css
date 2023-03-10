@@ -1,0 +1,288 @@
+.set1 {
+  font-weight: bold;
+  margin: 10px 10px 0px 0px;
+  margin: 20px;
+  color: white;
+}
+
+.set2 {
+  margin-left: 60vh;
+}
+
+.logo1 {
+  width: 30vh;
+}
+
+.set1:hover {
+  color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.text1 {
+  background: url(image1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.line1 {
+  color: white;
+}
+
+.content2 {
+  position: absolute;
+  top: 40%;
+  left: 20vh;
+  color: white;
+}
+
+.content2 h2 {
+  letter-spacing: 3px;
+}
+
+.content2 h1 {
+  font-size: 10vh;
+  letter-spacing: 5px;
+  font-weight: bold;
+}
+
+.btn1 {
+  border-radius: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.content3 {
+  margin-top: 25vh;
+}
+
+.content3 h2 {
+  color: grey;
+  font-weight: bold;
+}
+
+.content3 h1 {
+  color: black;
+  font-weight: bold;
+}
+
+.content3 p {
+  padding-top: 30px;
+}
+
+.img2 {
+  width: 80vh;
+  height: 45vh;
+  margin-top: 27vh;
+}
+
+.bg2 {
+  background-image: url(image3.jpg);
+  width: 100%;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 20vh;
+}
+
+.content4 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.content5 {
+  padding-top: 20vh;
+}
+
+.content5 h1 {
+  font-size: 10vh;
+  margin-top: 20px;
+}
+
+.content5 h2 {
+  font-size: 5vh;
+  margin-top: 20px;
+}
+
+.bg4 {
+  background-color: rgb(37, 34, 34);
+  height: 40vh;
+  margin-top: 10vh;
+  color: white;
+}
+
+.num {
+  text-align: center;
+  margin-top: 12vh;
+}
+
+.num h1 {
+  font-size: 8vh;
+}
+
+.num h2 {
+  font-size: 20px;
+  color: grey;
+  font-style: italic;
+}
+
+.form {
+  margin-top: 20vh;
+}
+
+.form h1 {
+  color: black;
+  font-weight: bold;
+}
+
+.inp {
+  width: 40vh;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.form1 {
+  margin-top: 10vh;
+}
+
+.inp1 {
+  width: 83vh;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.inp2 {
+  width: 40vh;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.opt {
+  width: 83vh;
+  height: 50px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.opt1 {
+  width: 40vh;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+
+}
+
+.img5 {
+  width: 50vh;
+  margin-top: 25vh;
+}
+
+.set5 {
+  display: flex;
+  justify-content: center;
+}
+
+.bg5 {
+  background: url(image6.jpg);
+  width: 100%;
+  /* height: 50vh; */
+  background-size: cover;
+}
+
+.menu {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 20vh;
+}
+
+.menu h1 {
+  font-size: 5vh;
+}
+
+.menu h2 {
+  padding-top: 15vh;
+}
+
+.img7 {
+  width: 20vh;
+  width: 20vh;
+}
+
+.content7 {
+  color: white;
+}
+
+.content8 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.menu2 {
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.menu2 h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 5vh;
+}
+
+.img8 {
+  width: 40vh;
+  height: 40vh;
+}
+
+.menu3 {
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(37, 34, 34);
+  margin-top: 10vh;
+}
+
+.foot {
+  color: white;
+  padding-top: 10vh;  
+}
+
+.foot ul li {
+  list-style-type: none;
+
+}
+.recep{
+  text-align: center;
+}
+
+.li {
+  text-decoration: none;
+  color: white;
+}
+
+.copy {
+  text-align: center;
+  color: white;
+  padding-top: 5vh;
+}
+.btnn{
+  width: 82vh;
+  margin-top: 20px;
+  height: 50px;
+  text-decoration: none;
+  border-radius: 20px;
+}
